@@ -1,0 +1,53 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header .photo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.header .title{
+    text-align: center;
+}
+
+.information{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.information p{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: .5rem;
+    font-size: 1.1rem;
+}
+
+.information p::before{
+    content: '';
+    display: inline-block;
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-right: .5rem;
+    background-repeat: no-repeat;
+    background-size: 1.25rem;
+}
+
+.information .job::before {
+     background-image: url(/assets/img/icon/job.svg);
+}
+.information .location::before {
+     background-image: url(/assets/img/icon/location.svg);
+}
+.information .phone::before {
+     background-image: url(/assets/img/icon/phone.svg);
+}
+.information .email::before {
+     background-image: url(/assets/img/icon/email.svg);
+}
