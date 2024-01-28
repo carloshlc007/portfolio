@@ -14,11 +14,22 @@
 body{
     background-color:#000;
     color: #fff;
+
+
 }
 
 .main{
     margin: 1rem;
     padding: 1rem;
-    border: 3px solid #fff;
-    border-radius: .5rem;
+    border: 5px solid #fff;
+    border-radius: 1rem;
+
+    background: linear-gradient(
+        120deg, 
+        #000000   0%,    
+        #000555  30%, 
+        #000aaa  80%,
+        #000ddd 100%);
+
+    background-repeat: no-repeat;
 }
