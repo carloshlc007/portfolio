@@ -7,15 +7,26 @@
 }
 
 *{
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
     font-family: "Open Sans", sans-serif;
 }
 
 body{
+    height: 100vh;
     background-color:#000;
     color: #fff;
+    min-width: 380px;
 
+        background: linear-gradient(
+        150deg, 
+        #0000ff   0%,    
+        #000000  40%,
+        #000000  60%,
+        #0000ff 100%);
 
+    background-repeat: no-repeat;
 }
 
 .main{
@@ -23,13 +34,4 @@ body{
     padding: 1rem;
     border: 5px solid #fff;
     border-radius: 1rem;
-
-    background: linear-gradient(
-        120deg, 
-        #000000   0%,    
-        #000555  30%, 
-        #000aaa  80%,
-        #000ddd 100%);
-
-    background-repeat: no-repeat;
 }

@@ -1,0 +1,33 @@
+.acordeon{
+    margin: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border: 5px solid #fff;
+    border-radius: 1rem;
+}
+
+.acordeon .trigger{
+    font-size: 1.5rem;
+    font-weight: 700;
+    display: flex;
+    flex-direction: row;
+    padding: 1rem 2rem;
+    background-color: transparent;
+    color: #fff;
+    border: none;
+}
+
+.acordeon .trigger::after{
+    content: "";   
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    background-repeat: no-repeat;
+    background-image: url("/assets/img/icon/arrow-top-32.png");
+
+}
+
+.acordeon .content{
+    display: none;
+}

@@ -1,7 +1,8 @@
 .header{
     display: flex;
     flex-direction: column;
-    align-items: center;
+    width: 100%;
+    align-items: center;  
 }
 
 .header .photo{
@@ -17,8 +18,7 @@
 .information{
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
-    width: 100%;      
+    align-items: flex-start;    
 }
 
 .information p{
@@ -36,7 +36,6 @@
     margin-right: .5rem;
     background-repeat: no-repeat;
     background-size: contain;
-
 }
 
 .information .job::before {
@@ -50,4 +49,29 @@
 }
 .information .email::before {
      background-image: url(/assets/img/icon/email.svg);
+}
+
+@media only screen and (min-width: 768px) {
+    .header{
+        display: grid;
+        grid-template-areas: 
+            'photo title'
+            'photo information'
+        ;
+    }
+
+    .header .photo{
+        grid-area: photo;
+        margin: 0 auto;
+    }
+
+    .header .title{
+        grid-area: title;
+        text-align: start;
+        max-width: 300px;
+    }
+
+    .header .information{
+        grid-area: information;
+    }
 }
