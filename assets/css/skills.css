@@ -1,0 +1,10 @@
+.skills{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.skills li{
+    list-style: none;
+}

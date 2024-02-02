@@ -38,6 +38,10 @@ body{
     background-repeat: no-repeat;
 }
 
+h3{
+    margin: .5rem 0;
+}
+
 a{
     color: #fff;
     text-decoration: none;
