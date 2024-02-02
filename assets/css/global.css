@@ -19,7 +19,16 @@ body{
     color: #fff;
     min-width: 380px;
 
-        background: linear-gradient(
+
+}
+
+.main{
+    margin: 1rem;
+    padding: 1rem;
+    border: 5px solid #fff;
+    border-radius: 1rem;
+
+    background: linear-gradient(
         150deg, 
         #0000ff   0%,    
         #000000  40%,
@@ -29,9 +38,11 @@ body{
     background-repeat: no-repeat;
 }
 
-.main{
-    margin: 1rem;
-    padding: 1rem;
-    border: 5px solid #fff;
-    border-radius: 1rem;
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
 }

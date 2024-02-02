@@ -13,10 +13,15 @@
     <link rel="stylesheet" href="./assets/css/global.css">
     <link rel="stylesheet" href="./assets/css/header.css">
     <link rel="stylesheet" href="./assets/css/acordeon.css">
+    <link rel="stylesheet" href="./assets/css/portifolio.css">
+    <link rel="stylesheet" href="./assets/css/experience.css">
+    <link rel="stylesheet" href="./assets/css/skills.css">
+
 </head>
 
 <body>
-    <div class="main">
+    <main class="main">
+    
         <header class="header">
 
             <img src="./assets/img/foto perfil.jpg" alt="Foto de Carlos H L Cruz" class="photo">
@@ -25,34 +30,105 @@
             <div class="information">
                 <p class="job">Programador e desenvolvedor de <br>Games na WolfTiger Studios</p>
                 <p class="location">São José Dos Pinhais - Pr</p>
-                <p class="phone">(41) 99199-3267</p>
-                <p class="email">carloshlc@hotmail.com</p>
+                <p class="phone">
+                    <a href="tel:(41) 9 9199-3267">(41) 9 9199-3267</a>
+                </p>
+                <p class="email">
+                    <a href="mailto:carloshlc@hotmail.com">carloshlc@hotmail.com</a>
+                </p>
             </div>
         </header>
 
-        <section class="acordeon">
-            <button class="trigger">
-                <span class="title">
-                    skils
-                </span>               
+        <section class="acordeon open">
+
+            <button class="trigger" type="button">
+                <h2>Skills</h2>               
             </button>
 
             <div class="content">
-                <ul>
-                    <li>Unity 3D</li>
-                    <li>C#</li>
-                    <li>Javascript</li>
-                    <li>Game Maker Studio</li>
+                <div class="skills">
+                    <section class="tools">
+                        <h3>Ferramentas:</h3>
+                        <ul>
+                            <li>
+                                <img src="Unity3D" alt="Unity3D">
+                            </li>
+                        </ul>
+                    </section>
+
+                    <section class="tools">
+                        <h3>Pessoal:</h3>
+                        <ul>
+                            <li>Organização</li>
+                            <li>Facilidade em aprender</li>
+                            <li>Trabalho em equipe</li>
+                            <li>Flexibilidade</li>
+                        </ul>
+                    </section>
+                </div>
+            </div>              
+        </section>   
+
+        <section class="acordeon">
+
+            <button class="trigger" type="button">
+                <h2>Portifólio</h2>               
+            </button>
+
+            <div class="content">
+                <ul class="portifolio">
+                    <li>
+                        <p class="title github">Criando um app de lembrete</p>
+                        <a href="http://www.google.com" target="_blank">http://www.google.com</a>
+                    </li>
+                     <li>
+                        <p class="title github">Criando um app de lembrete</p>
+                        <a href="http://www.google.com" target="_blank">http://www.google.com</a>
+                    </li>
+                     <li>
+                        <p class="title github">Criando um app de lembrete</p>
+                        <a href="http://www.google.com" target="_blank">http://www.google.com</a>
+                    </li>
+            
                 </ul>
-            </div>
-              
-        </section>
+            </div>              
+        </section>   
 
+        <section class="acordeon">
 
+            <button class="trigger" type="button">
+                <h2>Experiência Profissional</h2>               
+            </button>
 
-    </div>
+            <div class="content">
+                <ul class="experience">
+                    <li>
+                        <h3 class="title">
+                            <a href="http://www.wolftiger.ga" target="_blank">WolfTiger Studios</a>
+                        </h3>
+                       
+                        <p class="period">Abr 2016 - o momento</p>
+                        <p>Co-fundador, Desenvolvedor, Programador e Game Design...</p>
+                    </li>
+
+                    <li>
+                        <h3 class="title">
+                            <a href="http://www.wolftiger.ga" target="_blank">Laje Studios</a>
+                        </h3>
+                       
+                        <p class="period">ago de 2017 - ago de 2021</p>
+                        <p>
+                            Programador de jogos digitais, sempre focando a otimização, 
+                            para o melhor desempenho, desde o planejamento ate a aplicação.
+                        </p>
+                    </li>
+                     
+                </ul>
+            </div>              
+        </section>   
+
+    </main>
 </body>
-<script src="./assets/js/portifolio.js" defer></script>
+<script src="./assets/js/acordeon.js" ></script>
 
-</html>
 </html>

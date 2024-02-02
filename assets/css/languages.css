@@ -1,0 +1,28 @@
+.languages{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.languages li{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1rem;
+    font-weight: 700;
+}
+
+.languages li::before{
+    content: "";
+    display: inline-block;
+    width: 1.5rem;
+    height: 1.5rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/assets/img/icon/check-white.svg");
+    margin-right: .5rem;
+}
