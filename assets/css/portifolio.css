@@ -32,6 +32,6 @@
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url("/assets/img/icon/github-white.svg");
+    background-image: url("../img/icon/github-white.svg");
 }
 
