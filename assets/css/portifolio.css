@@ -18,6 +18,7 @@
 .portifolio li .title{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     align-items: center;
     font-size: 1.25rem;
     font-weight: 700;
