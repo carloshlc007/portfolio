@@ -23,6 +23,6 @@
     height: 1.5rem;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("/assets/img/icon/check-white.svg");
+    background-image: url("../img/icon/check-white.svg");
     margin-right: .5rem;
 }
