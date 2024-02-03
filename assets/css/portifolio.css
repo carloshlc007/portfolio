@@ -26,14 +26,22 @@
     margin-bottom: .5rem;
 }
 
-.portifolio li .title.github::before{
+.portifolio li p::before{
     content: "";
     display: inline-block;
-    width:2rem;
-    height: 2rem;
+    width:1.5rem;
+    height: 1.5rem;
     background-repeat: no-repeat;
     background-size: contain;
+    margin-right: 1rem;
+}
+
+.portifolio li .github::before{
     background-image: url("../img/icon/github-white.svg");
 }
 
+.portifolio li .itchio::before{
+    background-image: url("../img/icon/itch-io.svg");
+
+}
 
