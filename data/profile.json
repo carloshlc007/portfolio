@@ -1,6 +1,6 @@
 {
   "name": "Carlos H L Cruz",
-  "photo": "https://github.com/carloshlc007/portifolio/blob/Api/assets/data/imgs/foto%20perfil.jpg",
+  "photo": "https://github.com/carloshlc007/portifolio/blob/Api/data/imgs/foto%20perfil.jpg",
   "job": "Programador e Desenvolvedor de Games",
   "location": "São José Dos Pinhais - Pr",
   "phone": "(41) 9 9199-3267",
@@ -9,31 +9,31 @@
     "hardSkills": [
       {
         "name": "Unity3D",
-        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/assets/data/imgs/icon/unity.svg"
+        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/data/imgs/icon/unity.svg"
       },
       {
         "name": "C#",
-        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/assets/data/imgs/icon/csharp.png"
+        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/data/imgs/icon/csharp.png"
       },      
       {
         "name": "Java",
-        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/assets/data/imgs/icon/java.svg"
+        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/data/imgs/icon/java.svg"
       },      
       {
         "name": "html5",
-        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/assets/data/imgs/icon/html5.svg"
+        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/data/imgs/icon/html5.svg"
       },      
       {
         "name": "css",
-        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/assets/data/imgs/icon/css.svg"
+        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/data/imgs/icon/css.svg"
       },      
       {
         "name": "JavaScript",
-        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/assets/data/imgs/icon/javascript.svg"
+        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/data/imgs/icon/javascript.svg"
       },      
       {
         "name": "gamemaker2",
-        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/assets/data/imgs/icon/gamemaker.svg"
+        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/data/imgs/icon/gamemaker.svg"
       }
 
     ],
