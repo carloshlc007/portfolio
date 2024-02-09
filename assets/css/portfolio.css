@@ -36,11 +36,11 @@
     margin-right: 1rem;
 }
 
-.portfolio li .github::before{
+.portfolio li p.github::before{
     background-image: url("../img/icon/github-white.svg");
 }
 
-.portfolio li .itchio::before{
+.portfolio li p.itchio::before{
     background-image: url("../img/icon/itch-io.svg");
 
 }
