@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "Unity3D",
-        "logo": "https://raw.githubusercontent.com/carloshlc007/portfolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/unity.svg"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portfolio/4c51ece982e931f25862d2e18553c5a03871333c/data/imgs/icon/unity.svg"
       },      
       {
         "name": "gamemaker2",
@@ -17,11 +17,11 @@
       },
       {
         "name": "C#",
-        "logo": "https://raw.githubusercontent.com/carloshlc007/portfolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/csharp.svg"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portfolio/4c51ece982e931f25862d2e18553c5a03871333c/data/imgs/icon/csharp.svg"
       },      
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/carloshlc007/portfolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/java1.svg"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portfolio/4c51ece982e931f25862d2e18553c5a03871333c/data/imgs/icon/java.svg"
       },      
       {
         "name": "html5",
@@ -37,7 +37,7 @@
       },      
       {
         "name": "Github",
-        "logo": "https://raw.githubusercontent.com/carloshlc007/portfolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/github.svg"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portfolio/4c51ece982e931f25862d2e18553c5a03871333c/data/imgs/icon/github.svg"
       },      
       {
         "name": "Vscode",
