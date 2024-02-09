@@ -34,6 +34,14 @@
       {
         "name": "JavaScript",
         "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/javascript.svg"
+      },      
+      {
+        "name": "Github",
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/github.png"
+      },      
+      {
+        "name": "Vscode",
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/vscode.png"
       }
 
     ],
