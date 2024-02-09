@@ -9,31 +9,31 @@
     "hardSkills": [
       {
         "name": "Unity3D",
-        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/data/imgs/icon/unity.svg"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/unity.svg"
       },
       {
         "name": "C#",
-        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/data/imgs/icon/csharp.png"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/csharp.png"
       },      
       {
         "name": "Java",
-        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/data/imgs/icon/java.svg"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/java.svg"
       },      
       {
         "name": "html5",
-        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/data/imgs/icon/html5.svg"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/html5.svg"
       },      
       {
         "name": "css",
-        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/data/imgs/icon/css.svg"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/css.svg"
       },      
       {
         "name": "JavaScript",
-        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/data/imgs/icon/javascript.svg"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/javascript.svg"
       },      
       {
         "name": "gamemaker2",
-        "logo": "https://github.com/carloshlc007/portifolio/blob/Api/data/imgs/icon/gamemaker.svg"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/gamemaker.svg"
       }
 
     ],
