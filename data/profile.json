@@ -1,6 +1,6 @@
 {
   "name": "Carlos H L Cruz",
-  "photo": "https://raw.githubusercontent.com/carloshlc007/portifolio/Api/data/imgs/foto%20perfil.jpg",
+  "photo": "https://raw.githubusercontent.com/carloshlc007/portfolio/Api/data/imgs/foto%20perfil.jpg",
   "job": "Programador e Desenvolvedor de Games",
   "location": "São José Dos Pinhais - Pr",
   "phone": "(41) 9 9199-3267",
@@ -9,39 +9,39 @@
     "hardSkills": [
       {
         "name": "Unity3D",
-        "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/5982ae6c720a7235d68598684ab158e126ce7b00/data/imgs/icon/unity.svg"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portfolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/unity.svg"
       },      
       {
         "name": "gamemaker2",
-        "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/gamemaker2.svg"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portfolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/gamemaker2.svg"
       },
       {
         "name": "C#",
-        "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/csharp.svg"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portfolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/csharp.svg"
       },      
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/16b1a16c4c019f65285f2255e1f46f14a8cf20b0/data/imgs/icon/java1.svg"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portfolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/java1.svg"
       },      
       {
         "name": "html5",
-        "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/html5.svg"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portfolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/html5.svg"
       },      
       {
         "name": "css",
-        "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/css.svg"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portfolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/css.svg"
       },      
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/javascript.svg"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portfolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/javascript.svg"
       },      
       {
         "name": "Github",
-        "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/github.png"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portfolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/github.png"
       },      
       {
         "name": "Vscode",
-        "logo": "https://raw.githubusercontent.com/carloshlc007/portifolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/vscode.png"
+        "logo": "https://raw.githubusercontent.com/carloshlc007/portfolio/c0232f099869288c455c073ac57afad0730c9b1a/data/imgs/icon/vscode.png"
       }
 
     ],

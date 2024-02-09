@@ -35,9 +35,20 @@ function updateHardSkills(profileData){
         </li>`).join('')
 }
 
+function updatePortifoio(profileData){
+    const portfolio = document.getElementById("profile.portfolio")
+    portfolio.innerHTML = profileData.portfolio.map(project => {
+        return `<li>
+            <p ${project.github ? 'class="github' : ''}>${project.name}</p>
+            <a href="${project.url}" 
+            target="_blank">${project.url}</a>
+        </li>`}).join('')
+}
+
 (async () =>{
     const profileData = await fetchProfileData()
     updateProfileData(profileData)
     updateSoftSkills(profileData)
     updateHardSkills(profileData)
+    updatePortifoio(profileData)
 })()
